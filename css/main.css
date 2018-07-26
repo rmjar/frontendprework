@@ -1,0 +1,16 @@
+p {
+    font-size: 18px;
+    color: blue;
+}
+
+#header {
+    font-size: 32px;
+    color: rebeccapurple;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    color: purple;
+    
+}
