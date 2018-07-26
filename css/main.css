@@ -14,3 +14,13 @@ a {
     color: purple;
     
 }
+
+
+#articles h2 + p {
+    color: greenyellow;
+}
+
+
+#articles p {
+    color: blue
+}
