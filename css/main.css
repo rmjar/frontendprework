@@ -24,3 +24,8 @@ a {
 #articles p {
     color: blue
 }
+
+a:hover {
+    background-color: brown;
+    color:white;
+}
